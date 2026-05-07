@@ -1,3 +1,12 @@
+# v26.04
+
+* Changed code block bridging to use `\n` instead of `<br>` for newlines.
+
+# v26.03
+
+* Added support for bridging profile time zone from Slack
+  (disabled by default on servers without a batch profile update endpoint).
+
 # v26.02
 
 * Bumped minimum Go version to 1.25.
